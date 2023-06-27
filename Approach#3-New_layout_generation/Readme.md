@@ -18,9 +18,9 @@ Pre-process SVG layouts →  Clean by place holding elements
 
 [Research]
 
-- Layout generation [[Paper](references/Research%20papers/LayoutFormer++.pdf)]
+- Layout generation [[Paper](references/research_papers/LayoutFormer++.pdf)]
 
-- Layout generation with Transformers [[Paper](/references/Research%20papers/GUILGET.pdf)]
+- Layout generation with Transformers [[Paper](/references/research_papers/GUILGET.pdf)]
 
 [Business solutions]
 
