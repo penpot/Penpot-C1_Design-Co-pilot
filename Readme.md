@@ -16,7 +16,7 @@ The system will allow users to edit the SVG UI elements by describing their desi
 
 **Technologies**
 
-Following LLM for SVG editing [[Paper](references/Research papers/LLM_for_SVG_Editing.pdf)], the input can be an optimized SVG with text instructions to edit it. The language Model can be tuned on the created target dataset using raster-to-vector tools. 
+Following LLM for SVG editing [[Paper](references/Research%20papers/LLM_for_SVG_Editing.pdf)], the input can be an optimized SVG with text instructions to edit it. The language Model can be tuned on the created target dataset using raster-to-vector tools. 
 
 🖼️ **Visualization**
 
@@ -50,7 +50,7 @@ Following LLM for SVG editing [[Paper](references/Research papers/LLM_for_SVG_Ed
 
 [Research]
 
-- LLM for SVG editing [[Paper](references/Research papers/LLM_for_SVG_Editing.pdf)]
+- LLM for SVG editing [[Paper](references/Research%20papers/LLM_for_SVG_Editing.pdf)]
 
 - LLM for image editing [[Github](https://github.com/IDEA-Research/GroundingDINO/blob/main/demo/image_editing_with_groundingdino_gligen.ipynb)]: GroundingDINO [[Github](https://github.com/IDEA-Research/GroundingDINO)] + GLIGEN [[Github](https://github.com/gligen/GLIGEN)]
 
@@ -82,8 +82,8 @@ The system will take user input about the desired component and generate a new c
 
 **Technologies**
 
-- Following IconShop [[Paper](references/Research papers/IconShop.pdf)]. Based on a transformer-based method to achieve text-to-SVG. The dataset usage is more simple than VectorFusion.
-- Following VectorFusion [[Paper](references/Research papers/VectorFusion.pdf)]. Prompting stable diffusion -> raster image -> pre-processing (i.e., background removal) -> vectorisation into vector image via Vectorisation [[Tutorial](https://blog.thea.codes/raster-vectorization-with-python/)][[Sample code](https://gist.github.com/theacodes/2e13e4e05700279734ca4b34df370adb)]
+- Following IconShop [[Paper](references/Research%20papers/IconShop.pdf)]. Based on a transformer-based method to achieve text-to-SVG. The dataset usage is more simple than VectorFusion.
+- Following VectorFusion [[Paper](references/Research%20papers/VectorFusion.pdf)]. Prompting stable diffusion -> raster image -> pre-processing (i.e., background removal) -> vectorisation into vector image via Vectorisation [[Tutorial](https://blog.thea.codes/raster-vectorization-with-python/)][[Sample code](https://gist.github.com/theacodes/2e13e4e05700279734ca4b34df370adb)]
 or Vtracer [[Github](https://github.com/visioncortex/vtracer)]
 
 **Requirements**
@@ -108,8 +108,8 @@ or Vtracer [[Github](https://github.com/visioncortex/vtracer)]
 
 [Research] 
 
-- VectorFusion [[Paper](references/Research papers/VectorFusion.pdf)]: text-to-image-to-vector method
-- IconShop [[Paper](references/Research papers/IconShop.pdf)]: The key to the success of IconShop is to exploit the sequential nature of SVG. Design a transformer-based architecture to achieve text-to-SVG.
+- VectorFusion [[Paper](references/Research%20papers/VectorFusion.pdf)]: text-to-image-to-vector method
+- IconShop [[Paper](references/Research%20papers/IconShop.pdf)]: The key to the success of IconShop is to exploit the sequential nature of SVG. Design a transformer-based architecture to achieve text-to-SVG.
     - with black-and-white icon dataset, [FIGR-8](https://github.com/marcdemers/FIGR-8)
 - Raster-to-Vector tool: open-source model Vtracer [[Github](https://github.com/visioncortex/vtracer)]
 
@@ -190,9 +190,9 @@ Pre-process SVG layouts →  Clean by place holding elements
 
 [Research]
 
-- Layout generation [[Paper](references/Research papers/LayoutFormer++.pdf)]
+- Layout generation [[Paper](references/Research%20papers/LayoutFormer++.pdf)]
 
-- Layout generation with Transformers [[Paper](/references/Research papers/GUILGET.pdf)]
+- Layout generation with Transformers [[Paper](/references/Research%20papers/GUILGET.pdf)]
 
 [Business solutions]
 
