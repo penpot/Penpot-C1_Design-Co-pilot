@@ -77,7 +77,7 @@ The system will take user input about the desired component and generate a new c
 
 | Technology readiness | Risks | Complexity |
 | ----- | ----- | ---------- |
-| 🟡 Some elements are available, but further development and research needed | <div style="width: 100pt"> 🟡 Moderate risk | <div style="width: 80pt"> 🔴 Complex |
+| 🟡 Some elements are available, but further development and research needed | <div style="width: 120pt"> 🟡 Moderate risk | <div style="width: 100pt"> 🔴 Complex |
 
 
 **Technologies**
@@ -176,7 +176,7 @@ The system will take user input about the desired layout and generate a new page
 
 | Technology readiness | Risks | Complexity |
 | ----- | ----- | ---------- |
-| 🟡 Some elements are available, but further development and research needed | <div style="width: 100pt"> 🟡 Moderate risk | <div style="width: 150pt"> 🔴 Complex |
+| 🟡 Some elements are available, but further development and research needed | <div style="width: 120pt"> 🟡 Moderate risk | <div style="width: 100pt"> 🔴 Complex |
 
 **Technology**
 
