@@ -4,6 +4,7 @@
 |---------------------------------------------------------------|
 | 💡 Please feel free to share your valuable comments [here](https://github.com/penpot/Penpot-C1_Design-Co-pilot/issues/1#issue-1780321654).|
 
+<br>
 
 ## 🔎 Idea overview
 
