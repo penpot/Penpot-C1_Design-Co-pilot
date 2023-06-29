@@ -1,8 +1,10 @@
 # Idea #1 | Design Co-pilot
 
-| 🚀 Help the community improve the Penpot challenge! 🚀    | 
-|---------------------------------------------------------------|
-| 💡 Please feel free to share your valuable comments [here](https://github.com/penpot/Penpot-C1_Design-Co-pilot/issues/1#issue-1780321654).|
+### 🚀 Calling all innovators!  🚀 
+
+💡 We're looking for your creative genius to level up the Penpot challenge.     
+Share your groundbreaking ideas and let's redefine what's possible [here](https://github.com/penpot/Penpot-C1_Design-Co-pilot/issues/1#issue-1780321654) ! 🔥
+
 
 <br>
 
