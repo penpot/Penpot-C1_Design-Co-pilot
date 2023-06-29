@@ -1,5 +1,9 @@
 # Idea #1 | Design Co-pilot
 
+| 🚀 Help the community improve the Penpot challenge! 🚀    | 
+|---------------------------------------------------------------|
+| 💡 Please feel free to share your valuable comments [here]([https://github.com/jchieh/Penpot_notion2github_test_Challenge1/issues/1#issue-1780290938](https://github.com/penpot/Penpot-C1_Design-Co-pilot/issues/1#issue-1780321654)).|
+
 ## 🔎 Idea overview
 
 Designers create the design and design system, and the co-pilot can do routine tasks such as transferring this design to other pages where you don’t need to be creative just transfer this design. So you can act like a junior designer creating content based on created design. It leaves control to the designer but can augment and scale the activities.
