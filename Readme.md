@@ -2,7 +2,8 @@
 
 | 🚀 Help the community improve the Penpot challenge! 🚀    | 
 |---------------------------------------------------------------|
-| 💡 Please feel free to share your valuable comments [here]([https://github.com/jchieh/Penpot_notion2github_test_Challenge1/issues/1#issue-1780290938](https://github.com/penpot/Penpot-C1_Design-Co-pilot/issues/1#issue-1780321654)).|
+| 💡 Please feel free to share your valuable comments [here](https://github.com/penpot/Penpot-C1_Design-Co-pilot/issues/1#issue-1780321654).|
+
 
 ## 🔎 Idea overview
 
