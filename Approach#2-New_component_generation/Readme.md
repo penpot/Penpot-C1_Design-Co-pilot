@@ -24,7 +24,7 @@ or Vtracer [[Github](https://github.com/visioncortex/vtracer)]
     
 - FIGR-8: containing **17,375 classes** of **1,548,256 images** representing pictograms, ideograms, icons, emoticons or object or conception depictions (*with both png and svg format*) [[Github](https://github.com/marcdemers/FIGR-8)]
     
-    ![dataset_explanation.png](reports/figures/dataset_explanation.png)
+    ![dataset_explanation.png](../Approach%231-Editing_SVG_elements/reports/figures/dataset_explanation.png)
     
 - SVG Repo: with 500,000+ open-licensed SVG vector and icons [[Website](https://www.svgrepo.com/)]
             
