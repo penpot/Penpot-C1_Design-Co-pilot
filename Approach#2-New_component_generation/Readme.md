@@ -9,7 +9,7 @@ The system will take user input about the desired component and generate a new c
 
 ## Technologies
 
-- Following IconShop [[Paper](references/research_papers/IconShop.pdf)]. Based on a transformer-based method to achieve text-to-SVG. The dataset usage is more simple than VectorFusion.
+- Following IconShop [[Paper](references/research_papers/IconShop.pdf)]. Based on a transformer-based method to achieve text-to-SVG. The dataset usage is simpler than VectorFusion.
 - Following VectorFusion [[Paper](references/research_papers/VectorFusion.pdf)]. Prompting stable diffusion -> raster image -> pre-processing (i.e., background removal) -> vectorisation into vector image via Vectorisation [[Tutorial](https://blog.thea.codes/raster-vectorization-with-python/)][[Sample code](https://gist.github.com/theacodes/2e13e4e05700279734ca4b34df370adb)]
 or Vtracer [[Github](https://github.com/visioncortex/vtracer)]
 
