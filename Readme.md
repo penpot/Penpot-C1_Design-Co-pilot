@@ -1,4 +1,4 @@
-# Idea #1 | Design Co-pilot
+# Challenge #1 | Design Co-pilot
 
 ### 🚀 Calling all innovators!  🚀 
 
@@ -8,7 +8,7 @@ Share your groundbreaking ideas and let's redefine what's possible [here](https:
 
 <br>
 
-## 🔎 Idea overview
+## 🔎 Challenge overview
 
 Designers create the design and design system, and the co-pilot can do routine tasks such as transferring this design to other pages where you don’t need to be creative just transfer this design. So you can act like a junior designer creating content based on created design. It leaves control to the designer but can augment and scale the activities.
 
