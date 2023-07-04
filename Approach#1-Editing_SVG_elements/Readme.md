@@ -4,7 +4,7 @@ The system will allow users to edit the SVG UI elements by describing their desi
 
 | Technology readiness | Risks | Complexity |
 | ----- | ----- | ---------- |
-| 🟢 Ready for implementation | <div style="width: 100pt"> 🟡 Moderate risk | <div style="width: 150pt"> 🟠 Moderately complex |
+| 🟢 Ready for implementation | <div style="width: 100pt"> 🟡 Moderate risk | <div style="width: 150pt"> 🟡 Moderately complex |
 
 
 ## Technologies
